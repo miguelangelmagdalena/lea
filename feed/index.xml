@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Fundación Luís Elguezabal Aristizabal</title>
+	<atom:link href="https://miguelangelmagdalena.github.io/lea/feed/" rel="self" type="application/rss+xml" />
+	<link>https://miguelangelmagdalena.github.io/lea</link>
+	<description>La Fundación educativa y científica Prof. Dr. Luís Elguezabal Aristizabal, LEA nace en Cumaná, Sucre, Venezuela en 2005 y ahora tiene su par equivalente en la Asociación Civil LEA de Uharte, Navarra, España, con las mismas atribuciones, objetivos y misión: Educación, Educación, Educación! Vamos, Libertad.</description>
+	<lastBuildDate>Sun, 14 Nov 2021 22:47:20 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>https://miguelangelmagdalena.github.io/lea/wp-content/uploads/2021/11/LEA-Logo-black-icon-150x150.png</url>
+	<title>Fundación Luís Elguezabal Aristizabal</title>
+	<link>https://miguelangelmagdalena.github.io/lea</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Hello world!</title>
+		<link>https://miguelangelmagdalena.github.io/lea/blog/2021/10/18/hello-world/</link>
+					<comments>https://miguelangelmagdalena.github.io/lea/blog/2021/10/18/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[Admin LEA]]></dc:creator>
+		<pubDate>Mon, 18 Oct 2021 19:52:30 +0000</pubDate>
+				<category><![CDATA[LEA]]></category>
+		<guid isPermaLink="false">https://miguelangelmagdalena.github.io/lea/?p=1</guid>
+
+					<description><![CDATA[Uncategorized Hello world! Uncategorized Hello world! Uncategorized Hello world! Uncategorized Hello world! Uncategorized Hello world! Uncategorized Hello world! Uncategorized Hello world! Uncategorized Hello world! Uncategorized Hello world! Uncategorized Hello world! Uncategorized Hello world! Written by&#160;Admin LEA On&#160;octubre 18, 2021 Published on octubre 18, 2021 Hello World! Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus &#8230;<p class="read-more"> <a class="" href="https://miguelangelmagdalena.github.io/lea/blog/2021/10/18/hello-world/"> <span class="screen-reader-text">Hello world!</span> Leer más &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="1" class="elementor elementor-1" data-elementor-settings="[]">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-2216358a elementor-section-height-min-height elementor-section-full_width elementor-section-items-top elementor-section-height-default" data-id="2216358a" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-74712ea" data-id="74712ea" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-661bd4f elementor-widget elementor-widget-prime-slider-blog" data-id="661bd4f" data-element_type="widget" data-widget_type="prime-slider-blog.folio">
+				<div class="elementor-widget-container">
+			            <div class="bdt-prime-slider">
+            
+            <div class="bdt-prime-slider-skin-folio">
+
+            <div class="bdt-position-relative bdt-visible-toggle" bdt-slideshow="{&quot;animation&quot;:&quot;fade&quot;,&quot;ratio&quot;:&quot;16:9&quot;,&quot;min-height&quot;:540,&quot;autoplay&quot;:true,&quot;autoplay-interval&quot;:7000,&quot;pause-on-hover&quot;:false,&quot;velocity&quot;:1,&quot;finite&quot;:false}">
+
+            <ul class="bdt-slideshow-items">
+            
+          <li class="bdt-slideshow-item bdt-flex bdt-flex-middle elementor-repeater-item-1">
+
+                          <div
+                class="bdt-position-cover bdt-animation-kenburns bdt-transform-origin-center-left">
+                
+                
+        <div class="bdt-ps-slide-img" style="background-image: url('https://miguelangelmagdalena.github.io/lea/wp-content/uploads/2021/11/beach_background.jpg')"></div>
+
+        
+                            </div>
+          
+                              <div class="bdt-overlay-default bdt-position-cover"></div>
+              
+              
+      <div class="bdt-container">
+        <div class="bdt-prime-slider-wrapper">
+          <div class="bdt-prime-slider-content">
+            <div class="bdt-prime-slider-desc bdt-text-center">
+
+                                  <div bdt-slideshow-parallax="y: 80,0,-80; opacity: 1,1,0">
+                            <span class="bdt-ps-category">
+			<span><a href="https://miguelangelmagdalena.github.io/lea/blog/category/lea/" rel="category tag">LEA</a></span>
+		</span>
+                          </div>
+                
+                              <div class="bdt-main-title">
+                <h1 class="bdt-title-tag" bdt-slideshow-parallax="y: 100,0,-80; opacity: 1,1,0">
+
+                <a href="https://miguelangelmagdalena.github.io/lea/blog/2021/10/18/hello-world/">
+                    <span class="frist-word">Hello</span> world!                </a>
+
+              </h1>
+
+              <div bdt-slideshow-parallax="y: 110,0,-90; opacity: 1,1,0">
+                          <div class="bdt-blog-text">
+                <p>Uncategorized Hello world! Uncategorized Hello world! Uncategorized Hello world! Uncategorized Hello world! Uncategorized Hello world! Uncategorized Hello world! Uncategorized Hello world! Uncategorized Hello world! Uncategorized Hello world! Uncategorized Hello world!</p>
+            </div>
+                          </div>
+
+            </div>
+              
+          </div>
+        </div>
+      </div>
+      </div>
+
+        
+              
+          </li>
+
+
+            
+      </ul>
+      </div>
+      
+      <div class="bdt-ps-meta-content bdt-position-bottom bdt-flex bdt-flex-between bdt-flex-middle">
+                              <div class="bdt-prime-slider-meta bdt-flex bdt-flex-middle" bdt-slideshow-parallax="x: 250,-250">
+              <div
+                  class="bdt-post-slider-author bdt-margin-small-right bdt-border-circle bdt-overflow-hidden bdt-visible@s">
+                  <img alt='' src='http://0.gravatar.com/avatar/62cb9ae446e6a12fb06728297d7fc105?s=48&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/62cb9ae446e6a12fb06728297d7fc105?s=96&#038;d=mm&#038;r=g 2x' class='avatar avatar-48 photo' height='48' width='48' loading='lazy'/>              </div>
+              <div class="bdt-meta-author">
+                <span
+                    class="bdt-author bdt-text-capitalize">Written by&nbsp;Admin LEA </span><br>
+                <span>On&nbsp;octubre 18, 2021</span>
+              </div>
+            </div>
+          
+                      <div class="bdt-ps-meta bdt-visible@m">
+              <div class="bdt-ps-meta-item bdt-flex bdt-flex-middle"
+                   bdt-slideshow-parallax="y: 140,0,-140; opacity: 1,1,0">
+                <div class="bdt-meta-icon">
+                  <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="calendar-day" role="img"
+                       xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"
+                       class="svg-inline--fa fa-calendar-day fa-w-14 fa-2x">
+                    <path fill="currentColor"
+                          d="M0 464c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V192H0v272zm64-192c0-8.8 7.2-16 16-16h96c8.8 0 16 7.2 16 16v96c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16v-96zM400 64h-48V16c0-8.8-7.2-16-16-16h-32c-8.8 0-16 7.2-16 16v48H160V16c0-8.8-7.2-16-16-16h-32c-8.8 0-16 7.2-16 16v48H48C21.5 64 0 85.5 0 112v48h448v-48c0-26.5-21.5-48-48-48z"
+                          class=""></path>
+                  </svg>
+                </div>
+                <div class="bdt-meta-text">
+                  <span>
+                  Published on <br> octubre 18, 2021                  </span>
+                </div>
+              </div>
+            </div>
+          
+                  
+                </div>
+
+      </div>
+        
+            <div class="bdt-offcanvas" id="bdt-offcanvas-661bd4f" data-settings="{&quot;id&quot;:&quot;bdt-offcanvas-661bd4f&quot;,&quot;layout&quot;:&quot;default&quot;}" bdt-offcanvas="mode: slide;">
+                <div class="bdt-offcanvas-bar">
+                    
+                                                <button class="bdt-offcanvas-close" type="button" bdt-close></button>
+                                            
+                                                                            
+                                                        
+                                                                    </div>
+            </div>
+            
+                    		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-32502dfa elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="32502dfa" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-11fffd3a" data-id="11fffd3a" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-08354e8 elementor-widget elementor-widget-heading" data-id="08354e8" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Hello World!</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-1a9da108 elementor-widget elementor-widget-text-editor" data-id="1a9da108" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus quis arcu est. Quisque posuere est arcu, id hendrerit orci pulvinar id. Cras egestas metus sit amet felis accumsan, vitae placerat libero sodales. Morbi efficitur maximus massa et aliquam. Quisque vel viverra augue.</p><p>Nullam scelerisque erat nisl, eu aliquet quam porttitor et. Aliquam molestie sem augue, non egestas nunc sagittis in. Suspendisse vehicula turpis eget leo sollicitudin, dapibus commodo massa facilisis.</p><p>«Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.Aenean non turpis vitae ligula tristique sagittis. Cras varius erat pulvinar eros pretium suscipit. Duis eleifend sit amet sapien sed ultricies.»</p><p>Ut ac tortor eget nibh condimentum congue. In facilisis porttitor iaculis. Etiam vestibulum, nisl nec molestie egestas, velit lorem venenatis tellus, pellentesque blandit nulla sapien accumsan velit. Vivamus purus nunc, dictum nec elit viverra, semper iaculis risus.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-1f234a1 elementor-widget elementor-widget-text-editor" data-id="1f234a1" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>«Class aptent taciti sociosqu ad litora per conubia nostra, per inceptos himenaeos .Aenean non turpis vitae ligula tristique sagitt isras varius erat pulvinar eros pretium»</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-3cb72ee5 elementor-widget elementor-widget-text-editor" data-id="3cb72ee5" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus quis arcu est. Quisque posuere est arcu, id hendrerit orci pulvinar id. Cras egestas metus sit amet felis accumsan, vitae placerat libero sodales. Morbi efficitur maximus massa et aliquam. Quisque vel viverra augue.</p><p>Nullam scelerisque erat nisl, eu aliquet quam porttitor et. Aliquam molestie sem augue, non egestas nunc sagittis in. Suspendisse vehicula turpis eget leo sollicitudin, dapibus commodo massa facilisis.</p><p>Ut ac tortor eget nibh condimentum congue. In facilisis porttitor iaculis. Etiam vestibulum, nisl nec molestie egestas, velit lorem venenatis tellus, pellentesque blandit nulla sapien accumsan velit. Vivamus purus nunc, dictum nec elit viverra, semper iaculis risus.</p>						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-79ceeb3" data-id="79ceeb3" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-e9686fa elementor-widget elementor-widget-heading" data-id="e9686fa" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h5 class="elementor-heading-title elementor-size-default">Síguenos</h5>		</div>
+				</div>
+				<div class="elementor-element elementor-element-2ed7cea elementor-shape-circle elementor-grid-0 e-grid-align-center elementor-widget elementor-widget-social-icons" data-id="2ed7cea" data-element_type="widget" data-widget_type="social-icons.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-social-icons-wrapper elementor-grid">
+							<span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-repeater-item-05e3e12" href="http://a6labs@gmail.com%20/" target="_blank">
+						<span class="elementor-screen-only">Instagram</span>
+						<i class="fab fa-instagram"></i>					</a>
+				</span>
+							<span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-f2ab02b" href="https://twitter.com/a6labs" target="_blank">
+						<span class="elementor-screen-only">Twitter</span>
+						<i class="fab fa-twitter"></i>					</a>
+				</span>
+							<span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-repeater-item-6a23197" href="http://a6labs@gmail.com%20/" target="_blank">
+						<span class="elementor-screen-only">Facebook</span>
+						<i class="fab fa-facebook"></i>					</a>
+				</span>
+							<span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-whatsapp elementor-repeater-item-05c8e4f" href="https://wa.me/34601312297" target="_blank">
+						<span class="elementor-screen-only">Whatsapp</span>
+						<i class="fab fa-whatsapp"></i>					</a>
+				</span>
+					</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-b50898e elementor-widget elementor-widget-wp-widget-recent-posts" data-id="b50898e" data-element_type="widget" data-widget_type="wp-widget-recent-posts.default">
+				<div class="elementor-widget-container">
+			
+		
+		<h5>Entradas recientes</h5><nav role="navigation" aria-label="Entradas recientes">
+		<ul>
+											<li>
+					<a href="https://miguelangelmagdalena.github.io/lea/blog/2021/10/18/hello-world/">Hello world!</a>
+											<span class="post-date">octubre 18, 2021</span>
+									</li>
+					</ul>
+
+		</nav>		</div>
+				</div>
+				<div class="elementor-element elementor-element-33939c7 elementor-widget elementor-widget-wp-widget-recent-comments" data-id="33939c7" data-element_type="widget" data-widget_type="wp-widget-recent-comments.default">
+				<div class="elementor-widget-container">
+			<h5>Comentarios recientes</h5><nav role="navigation" aria-label="Comentarios recientes"><ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link"><a href='https://wordpress.org/' rel='external nofollow ugc' class='url'>A WordPress Commenter</a></span> en <a href="https://miguelangelmagdalena.github.io/lea/blog/2021/10/18/hello-world/#comment-1">Hello world!</a></li></ul></nav>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-3ebf4a69 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3ebf4a69" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-315bacff" data-id="315bacff" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-6d321e4 elementor-pagination-position-inside elementor-widget elementor-widget-image-carousel" data-id="6d321e4" data-element_type="widget" data-settings="{&quot;slides_to_show&quot;:&quot;1&quot;,&quot;navigation&quot;:&quot;dots&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;infinite&quot;:&quot;yes&quot;,&quot;effect&quot;:&quot;slide&quot;,&quot;speed&quot;:500}" data-widget_type="image-carousel.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image-carousel-wrapper swiper-container" dir="ltr">
+			<div class="elementor-image-carousel swiper-wrapper">
+								<div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://miguelangelmagdalena.github.io/lea/wp-content/uploads/elementor/thumbs/lhtqjazuprq-breather-pg2jyv01u6hs8rxre6g16fttv7edvbmz29ggwb34o4.jpg" alt="lhtqjazuprq-breather.jpg" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://miguelangelmagdalena.github.io/lea/wp-content/uploads/elementor/thumbs/9l_326fiszk-luca-bravo-pg2jyvxw10j2kdwe8ounqxlagl9r30qpee3ydl1qhw.jpg" alt="9l_326fiszk-luca-bravo.jpg" /></figure></div>			</div>
+												<div class="swiper-pagination"></div>
+													</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-26a04b67 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="26a04b67" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-51f0d732" data-id="51f0d732" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-58357c3a elementor-widget elementor-widget-text-editor" data-id="58357c3a" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus quis arcu est. Quisque posuere est arcu, id hendrerit orci pulvinar id. Cras egestas metus sit amet felis accumsan, vitae placerat libero sodales. Morbi efficitur maximus massa et aliquam. Quisque vel viverra augue.</p><p>Nullam scelerisque erat nisl, eu aliquet quam porttitor et. Aliquam molestie sem augue, non egestas nunc sagittis in. Suspendisse vehicula turpis eget leo sollicitudin, dapibus commodo massa facilisis.</p><p>«Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.Aenean non turpis vitae ligula tristique sagittis. Cras varius erat pulvinar eros pretium suscipit. Duis eleifend sit amet sapien sed ultricies.»</p><p>Ut ac tortor eget nibh condimentum congue. In facilisis porttitor iaculis. Etiam vestibulum, nisl nec molestie egestas, velit lorem venenatis tellus, pellentesque blandit nulla sapien accumsan velit. Vivamus purus nunc, dictum nec elit viverra, semper iaculis risus.</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-17da47ec elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="17da47ec" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-34d0f65f" data-id="34d0f65f" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-10c13430 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="10c13430" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-3274e46f elementor-shape-circle elementor-grid-0 e-grid-align-center elementor-widget elementor-widget-social-icons" data-id="3274e46f" data-element_type="widget" data-widget_type="social-icons.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-social-icons-wrapper elementor-grid">
+							<span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook-f elementor-repeater-item-3bftaoh" target="_blank">
+						<span class="elementor-screen-only">Facebook-f</span>
+						<i class="fab fa-facebook-f"></i>					</a>
+				</span>
+							<span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-pc69ffs" target="_blank">
+						<span class="elementor-screen-only">Twitter</span>
+						<i class="fab fa-twitter"></i>					</a>
+				</span>
+							<span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-linkedin-in elementor-repeater-item-xz1qnet" target="_blank">
+						<span class="elementor-screen-only">Linkedin-in</span>
+						<i class="fab fa-linkedin-in"></i>					</a>
+				</span>
+					</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+						</div>
+					</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>https://miguelangelmagdalena.github.io/lea/blog/2021/10/18/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
